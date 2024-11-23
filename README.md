@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SuayushkumarDas
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning html
+- 🌱 I’m currently learning C++ and VLSI
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
